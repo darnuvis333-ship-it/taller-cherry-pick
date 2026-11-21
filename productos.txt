@@ -1,0 +1,4 @@
+CATALOGO DE PRODUCTOS
+Producto 1: Teclado
+Producto 2: Mouse
+Producto 3: Monitor
