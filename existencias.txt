@@ -1,0 +1,3 @@
+Existencias del Teclado: 15 unidades
+Existencias del Mouse: 30 unidades
+Existencias del Monitor: 8 unidades
