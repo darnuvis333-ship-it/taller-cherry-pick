@@ -1,0 +1,3 @@
+Precio del Teclado: $50000
+Precio del Mouse: $25000
+Precio del Monitor: $450000
